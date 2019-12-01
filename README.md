@@ -1,7 +1,8 @@
 Proyecto SENA 2019
 Certificados CO
 
-#####################################\n\n\n
+#####################################
+            \n\n\n
             INTEGRANTES
           Vanesa Vega Santa
           
@@ -15,4 +16,5 @@ Certificados CO
              
         Jhon Alexander Ramos
         
-#####################################\n\n\n
+#####################################
+            \n\n\n
