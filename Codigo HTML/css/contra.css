@@ -1,0 +1,51 @@
+*{
+    font-family: 'Alata', sans-serif;
+    
+}
+
+
+.cuadro{
+    background-color: #fff;
+    padding: 10%;
+}
+.cuadro-recuperacion{
+    width: 50%;
+    background-color: #fff;
+    border: 8px solid;
+    height: 550px;
+    margin-top: 2%;
+}
+.letra{
+    text-align: center;
+    color: #1EDDB6;
+    margin-top: 2%;
+
+}
+.color-letra{
+    color: #DD681E;
+    font-size: 130%;
+    margin-top: 6%;
+    margin-left: 7%;
+
+}
+.inp-tamaño{
+    padding: 1%;
+    border: 2px solid;
+    width: 85%;
+    margin-left: 7%;
+
+}
+.boton{
+    margin-top: 9%;
+    background-color: #DD681E;
+    border-radius:100px ;
+    width: 40%;
+    padding: 2%;
+    color: #fff;
+    
+}
+.sena{
+    width: 15%;
+    float: right;
+    margin-top: -5%;
+}
